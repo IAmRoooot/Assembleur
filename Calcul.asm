@@ -22,7 +22,6 @@ section .text
         global _start
 
 _start:
-
         ;Saisir A
         mov eax,4
         mov ebx,1
